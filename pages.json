@@ -7,7 +7,7 @@
 			}
 		}
         ,{
-            "path" : "pages/list/list",
+            "path" : "pages/xq/xq",
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "",
@@ -32,7 +32,7 @@
                 "enablePullDownRefresh": false
             }
             
-        },
+        }
 		
     ],
 	"tabBar":{
@@ -47,7 +47,7 @@
 			  }
 		},
 		{
-			"pagePath": "pages/list/list",
+			"pagePath": "pages/xq/xq",
 			 "text": "分类",
 			 "iconPath": "/pages/img/分类.png",
 			 "selectedIconPath": "/pages/img/分类1.png"
