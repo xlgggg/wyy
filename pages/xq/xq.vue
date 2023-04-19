@@ -1,20 +1,14 @@
+
 <template>
 	<view>
 		
 	</view>
 </template>
-
-<script>
-	export default {
-		data() {
-			return {
-				
-			}
-		},
-		methods: {
-			
-		}
-	}
+<script setup>
+	import{typeone}from"../apis/apis.js"
+	typeone().then(res=>{
+		console.log(res)
+	})
 </script>
 
 <style>
