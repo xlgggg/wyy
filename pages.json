@@ -32,7 +32,16 @@
                 "enablePullDownRefresh": false
             }
             
-        }
+        },
+		{
+		    "path" : "pages/xqq/xqq",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
 		
     ],
 	"tabBar":{
